@@ -1,4 +1,4 @@
-instance creation
+installing
 installOnClass: aClass
 	|someWrappers|
 	someWrappers:=OrderedCollection new.

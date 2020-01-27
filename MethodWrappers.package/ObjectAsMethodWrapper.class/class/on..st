@@ -1,3 +1,3 @@
 instance creation
 on: aMethodReference
-	^self new initializeFor: aMethodReference 
+	^ self new initializeFor: aMethodReference 

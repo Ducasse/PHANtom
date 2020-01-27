@@ -1,4 +1,4 @@
-testing
+handling DNU
 doesNotUnderstand: aMessage
 
 	^ oldMethod isNil

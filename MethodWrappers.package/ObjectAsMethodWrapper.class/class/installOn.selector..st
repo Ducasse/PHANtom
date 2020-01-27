@@ -1,3 +1,3 @@
-instance creation
+installing
 installOn: aClass selector: aSel
-	^(self on: aClass selector: aSel) install;yourself
+	^ (self on: aClass selector: aSel) install; yourself

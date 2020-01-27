@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "StephaneDucasse 1/27/2020 21:45",
 	"super" : "ObjectAsMethodWrapper",
-	"category" : "MethodWrappers",
+	"category" : "MethodWrappers-ObjectAsMethodWrapper",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

@@ -1,3 +1,4 @@
-initializing
-initializeFor: aMethodReference 
-	reference := aMethodReference.
+initialization
+initializeFor: aMethodReference
+ 
+	reference := aMethodReference

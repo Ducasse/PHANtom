@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ObjectAsMethodWrapper",
-	"category" : "MethodWrappers",
+	"category" : "MethodWrappers-ObjectAsMethodWrapper",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
