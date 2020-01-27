@@ -1,3 +1,0 @@
-utility
-receviersParser
-	^ PhReceiverParser new.

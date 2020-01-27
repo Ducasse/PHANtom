@@ -1,3 +1,0 @@
-private
-pointcut
-	^ pointcut

@@ -1,4 +1,0 @@
-accessing
-wrappedClass
-
-	^ reference parent

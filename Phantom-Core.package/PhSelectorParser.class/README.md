@@ -1,1 +1,0 @@
-this class is responsable to parse the selectors declared on a pointcut.

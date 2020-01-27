@@ -1,3 +1,0 @@
-as yet unclassified
-currentObjectDeployedMembraneStack
-	^ PhMembraneMethodWrapper currentObjectDeployedMembraneStack ifEmpty: [self activeObjectDeployedMembraneSet asArray]

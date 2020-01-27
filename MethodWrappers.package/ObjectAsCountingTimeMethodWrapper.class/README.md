@@ -1,1 +1,0 @@
-I'm a simple wrapper that counts the number of execution of the wrapped method.

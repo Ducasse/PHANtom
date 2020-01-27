@@ -1,3 +1,0 @@
-operations
-bar
-	^ 2

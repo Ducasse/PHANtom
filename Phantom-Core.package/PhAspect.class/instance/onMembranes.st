@@ -1,3 +1,0 @@
-private
-onMembranes
-	^ onMembranes

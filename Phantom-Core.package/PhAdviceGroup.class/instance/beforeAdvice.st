@@ -1,3 +1,0 @@
-accessing
-beforeAdvice
-	^ beforeAdvice

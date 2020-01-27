@@ -1,3 +1,0 @@
-accessing
-removeClassModifier: aClassModifier
-	self classModifiers remove: aClassModifier

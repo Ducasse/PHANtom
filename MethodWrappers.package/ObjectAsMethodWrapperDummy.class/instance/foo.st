@@ -1,3 +1,0 @@
-operations
-foo
-	^ 1

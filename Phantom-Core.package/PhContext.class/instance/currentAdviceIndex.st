@@ -1,3 +1,0 @@
-advices
-currentAdviceIndex
-	^adviceRunner index.

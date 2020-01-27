@@ -1,3 +1,0 @@
-accessing
-resetMemoizedcd
-	Memoizedcd := nil

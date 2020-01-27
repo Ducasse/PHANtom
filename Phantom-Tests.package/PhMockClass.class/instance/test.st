@@ -1,3 +1,0 @@
-test methods
-test
-	^testString.
